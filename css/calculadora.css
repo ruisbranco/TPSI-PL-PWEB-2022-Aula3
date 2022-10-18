@@ -1,0 +1,42 @@
+#form1{
+    margin: 0 auto;
+    width: 350px;
+    height: 500px;
+  /*  display: flex;
+    flex-direction: column;
+    justify-content: center;
+  */ 
+}
+#visor{
+    width: 342px;
+    height: 80px;
+    background-color: lightgreen;
+    text-align: right;
+    font-size: 30pt;
+}
+.btn{
+    width: 80px;
+    height: 80px;
+    font-size: 20pt;
+    
+}
+
+.op{
+    width: 80px;
+    height: 80px;
+    font-size: 20pt;
+    background-color: grey;
+}
+
+p{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.igual{
+    width: 350px;
+    height: 80px;
+    font-size: 20pt;
+    background-color: grey;
+}
